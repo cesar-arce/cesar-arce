@@ -4,6 +4,8 @@
 
 ## From Raw Data to Machine Learning (ML)
 
+<p><img algn="right" tsrc="ttps://user-images.githubusercontent.com/63738694/124597687-c4b6a500-de31-11eb-9603-b6a2bf58f509.gif" width="500"/></p>
+
 ### My Specialties:
 
 Business Intelligence – BI (focuses on descriptive analytics), I work transforming data into insights that drive business value. To improve and maintain operational efficiency and helps companies to increase organizational productivity; managers can generate intuitive, readable reports that contain relevant, actionable data. As BI analysts, I can identify trends that can help other departments, managers, and executives make business decisions to modernize and improve processes in the organization. As BI analysts, I can discover areas of revenue loss and identify where improvements can be made to save the company money or increase profits. 
