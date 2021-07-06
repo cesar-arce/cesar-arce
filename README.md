@@ -1,4 +1,4 @@
-## print('Hello World !!) 👋
+## print('Hello World !!') 👋
 
 ### I help customers and enterprises increase their business competitiveness ! 👍
 
