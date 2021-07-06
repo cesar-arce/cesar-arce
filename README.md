@@ -1,5 +1,7 @@
 ## print('Hello World !!) 👋
 
+### I help customers and enterprises increase their business competitiveness ! 👍
+
 ### My Specialties:
 
 Business Intelligence – BI (focuses on descriptive analytics), I work transforming data into insights that drive business value. To improve and maintain operational efficiency and helps companies to increase organizational productivity; managers can generate intuitive, readable reports that contain relevant, actionable data. As BI analysts, I can identify trends that can help other departments, managers, and executives make business decisions to modernize and improve processes in the organization. As BI analysts, I can discover areas of revenue loss and identify where improvements can be made to save the company money or increase profits. 
