@@ -16,6 +16,7 @@ Business Analytics – BA (focuses on predictive analytics), as a Data Scientist
 
 I hold an Executive MBA, a Bachelor’s degree in Aviation Management, a Bachelor’s degree in Accounting (CPA, CMA), a Data Science specialization at Johns Hopkins University, among others. 
 
+
 - 💬 Ask me about: Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project, MySQL, PostgreSQL, SQL Server - SSMS, Alteryx, Power BI (Desktop-Service-Mobile), Tableau, Python (NumPy, Pandas, Matplotlib, Seaborn, Bokeh), Practical Machine Learning (ML), Deep Learning (DL), EDA (Exploratory Data Analysis), ETL (Extract-Transfer-Load), Data Modeling in R (tidyr, ggplot2, plotly, dplyr, Keras).
 - 📫 How to reach me:   [My Site](https://cesararce5.wixsite.com/mysite) or My [LinkedIn](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713/)
 
