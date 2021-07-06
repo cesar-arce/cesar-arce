@@ -21,6 +21,7 @@ Business Analytics – BA (focuses on predictive analytics), as a Data Scientist
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+<img align="left" alt="PyCharm" width="26px" src="https://user-images.githubusercontent.com/63738694/124551882-c6b44000-de00-11eb-913d-fc32307a5c3d.jpg">
 <img align="left" alt="Python" width="56px" src="https://user-images.githubusercontent.com/63738694/124549148-c154f680-ddfc-11eb-948e-5b073ea1e210.jpg">
 <img align="left" alt="R" width="26px" src="https://user-images.githubusercontent.com/63738694/124549159-c5811400-ddfc-11eb-993b-7ded767b6752.jpg">
 <img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
