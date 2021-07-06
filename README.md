@@ -1,6 +1,6 @@
 ## print('Hello World !!') 👋
 
-### I help customers and enterprises increase their business competitiveness ! 👍
+### My passion ... help customers and enterprises increase their business competitiveness ! 👍
 
 ### My Specialties:
 
