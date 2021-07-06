@@ -20,7 +20,7 @@ I hold an Executive MBA, a Bachelor’s degree in Aviation Management, a Bachelo
 
 - 💬 Ask me about: Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project, MySQL, PostgreSQL, SQL Server - SSMS, Alteryx, Power BI (Desktop-Service-Mobile), Tableau, Python (NumPy, Pandas, Matplotlib, Seaborn, Bokeh), Practical Machine Learning (ML), Deep Learning (DL), EDA (Exploratory Data Analysis), ETL (Extract-Transfer-Load), Data Modeling in R (tidyr, ggplot2, plotly, dplyr, Keras).
 - 📫 How to reach me:   [My Site](https://cesararce5.wixsite.com/mysite) or My [LinkedIn](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713/)
-
+</p>
 <img src="https://user-images.githubusercontent.com/63738694/124544036-5c959e00-ddf4-11eb-9907-019cd4429a59.jpg" width="180">,
 <img src="https://user-images.githubusercontent.com/63738694/124542515-826d7380-ddf1-11eb-8fec-86193a1c3d7e.jpg" width="180">,
 <img src="https://user-images.githubusercontent.com/63738694/124542519-84373700-ddf1-11eb-9a2d-9a730c35bc1e.jpg" width="180">,
