@@ -10,3 +10,5 @@ Business Analytics – BA (focuses on predictive analytics), as a Data Scientist
 
 - 💬 Ask me about: Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project, MySQL, PostgreSQL, SQL Server - SSMS, Alteryx, Power BI (Desktop-Service-Mobile), Tableau, Python (NumPy, Pandas, Matplotlib, Seaborn, Bokeh), Practical Machine Learning (ML), Deep Learning (DL), EDA (Exploratory Data Analysis), ETL (Extract-Transfer-Load), Data Modeling in R (tidyr, ggplot2, plotly, dplyr, Keras).
 - 📫 How to reach me:   [My Site](https://cesararce5.wixsite.com/mysite) or My [LinkedIn](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713/)
+
+![R-Scatter_plot](https://user-images.githubusercontent.com/63738694/124542282-1a1e9200-ddf1-11eb-94ee-3b0c20d488c0.jpg)
