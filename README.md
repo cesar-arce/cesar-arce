@@ -5,7 +5,7 @@
 ## >> From Raw Data to Machine Learning (ML)
 
 <img align="right" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp?cid=ecf05e47mzeffq7vpenyl85y483zxl8gl5srjjduorf9jb0c&rid=200.webp&ct=g" width="500"/>
-<div style="text-align: right">
+<div style="text-align: justify">
 
 ### My Specialties:
 
