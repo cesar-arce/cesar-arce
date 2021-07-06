@@ -2,7 +2,7 @@
 
 ### Welcome to my Data Science Portfolio. My passion is help customers and enterprises increase their business competitiveness understanding the intersection of data science and sports analytics! 👍
 
-## From Raw Data to Machine Learning (ML)
+## >> From Raw Data to Machine Learning (ML)
 
 <img align="right" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp?cid=ecf05e47mzeffq7vpenyl85y483zxl8gl5srjjduorf9jb0c&rid=200.webp&ct=g" width="500"/>
 
