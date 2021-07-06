@@ -13,4 +13,5 @@ Business Analytics – BA (focuses on predictive analytics), as a Data Scientist
 
 ![BI_images](https://user-images.githubusercontent.com/63738694/124542515-826d7380-ddf1-11eb-8fec-86193a1c3d7e.jpg)
 ![BA_images](https://user-images.githubusercontent.com/63738694/124542519-84373700-ddf1-11eb-9a2d-9a730c35bc1e.jpg)
+![BA2_images](https://user-images.githubusercontent.com/63738694/124543484-57841f00-ddf3-11eb-98a9-9b25027b7e56.jpg)
 <img src="https://user-images.githubusercontent.com/63738694/124542282-1a1e9200-ddf1-11eb-94ee-3b0c20d488c0.jpg" width="175">
