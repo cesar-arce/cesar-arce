@@ -4,8 +4,7 @@
 
 ## From Raw Data to Machine Learning (ML)
 
-<img align="left" src="https://user-images.githubusercontent.com/63738694/124597687-c4b6a500-de31-11eb-9603-b6a2bf58f509.gif" width="500"/>
-<img align="left" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp?cid=ecf05e47mzeffq7vpenyl85y483zxl8gl5srjjduorf9jb0c&rid=200.webp&ct=g" width="500"/>
+<img align="right" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp?cid=ecf05e47mzeffq7vpenyl85y483zxl8gl5srjjduorf9jb0c&rid=200.webp&ct=g" width="500"/>
 
 ### My Specialties:
 
