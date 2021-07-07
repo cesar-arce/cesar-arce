@@ -1,6 +1,6 @@
 # print("Hello World !!") 👋
 
-### Welcome to my Data Science Portfolio. My passion is help customers and enterprises increase their business competitiveness to grow results, to transform Raw Data into valuable information to make better decisions !! 👍
+### Welcome to my Data Science Portfolio. My passion is help customers and enterprises increase their business competitiveness to grow results, transforming Raw Data into valuable information to make better decisions !! 👍
 
 ## >> From Raw Data to Machine Learning (ML)
 
