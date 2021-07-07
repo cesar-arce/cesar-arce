@@ -1,6 +1,6 @@
 # print("Hello World !!") 👋
 
-### Welcome to my Data Science Portfolio. My passion is help customers and enterprises increase their business competitiveness understanding the intersection of data science and sports analytics! 👍
+### Welcome to my Data Science Portfolio. My passion is help customers and enterprises increase their business competitiveness understanding the intersection of Data Science and Future trends! 👍
 
 ## >> From Raw Data to Machine Learning (ML)
 
