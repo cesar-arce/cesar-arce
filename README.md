@@ -1,6 +1,6 @@
 # print("Hello World !!") 👋
 
-### Welcome to my Data Science Portfolio. My passion is help you to increase your business competitiveness to grow up your results, transforming Raw Data into valuable information to make better decisions !!  Using cutting-edge technologies, such as Machine Learning or Deep Learning (using Python or R), and Robotic Process Automation - RPA (using UiPath, Knime, etc.)👍
+### Welcome to my Data Science Portfolio. My passion is help you to increase your business competitiveness, sales growth and turnover your results, transforming Raw Data into valuable information to make better decisions !!  Using cutting-edge technologies, such as Machine Learning or Deep Learning (using Python or R), and Robotic Process Automation - RPA (using UiPath, Knime, etc.)👍
 
 ## >> From Raw Data to Machine Learning (ML)
 
