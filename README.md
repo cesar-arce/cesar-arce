@@ -31,8 +31,11 @@
 In addition to an Executive MBA, I hold bachelor's degrees in Aviation Management and Accounting (CPA, CMA), a Data Science specialization from Johns Hopkins University, and a Google Data Analytics Professional Certificate, among others.
 
 </p>
+
+### 💬 Ask me about: 
+
 <p align="justify">
-💬 Ask me about: Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project, MySQL, PostgreSQL, SQL Server - SSMS, AWS (S3, EC2, Lambda, SageMaker), Snowflake, Snowpark, Streamlit, Alteryx / KNIME, EDA (Exploratory Data Analysis), Database ETL (Extract-Transform-Load), Datalake ELT (Extract-Load-Transform),Power BI (Desktop-Service-Mobile), Tableau, Python (NumPy, Pandas, Matplotlib, Seaborn, Bokeh), Practical Machine Learning (ML), Deep Learning (DL), Data Modeling in R (tidyr, ggplot2, plotly, dplyr, Keras).
+Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project, MySQL, PostgreSQL, SQL Server - SSMS, AWS (S3, EC2, Lambda, SageMaker), Snowflake, Snowpark, Streamlit, Alteryx / KNIME, EDA (Exploratory Data Analysis), Database ETL (Extract-Transform-Load), Datalake ELT (Extract-Load-Transform),Power BI (Desktop-Service-Mobile), Tableau, Python (NumPy, Pandas, Matplotlib, Seaborn, Bokeh), Practical Machine Learning (ML), Deep Learning (DL), Data Modeling in R (tidyr, ggplot2, plotly, dplyr, Keras).
 
 </p>
 
