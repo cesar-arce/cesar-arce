@@ -35,7 +35,7 @@ In addition to an Executive MBA, I hold bachelor's degrees in Aviation Managemen
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,vscode,react,powershell,regex,mysql,mongodb,postgres,sqlite,firebase,pytorch,tensorflow,matlab,ai,aws,gcp,azure,flask,linux,git,kubernetes,docker,github,githubactions,gitlab,discord,wordpress,arduino,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=py,r,vscode,react,powershell,regex,mysql,mongodb,postgres,sqlite,firebase,pytorch,tensorflow,matlab,ai,aws,gcp,azure,flask,linux,git,kubernetes,docker,github,githubactions,gitlab,discord,wordpress,arduino,raspberrypi,powerbi,tableau" />
   </a>
 </p>
 
