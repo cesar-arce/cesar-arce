@@ -28,7 +28,7 @@
 ### My Background:
 
 <p align="justify">
-In addition to an Executive MBA, I hold bachelor's degrees in Aviation Management and Accounting (CPA, CMA), a Data Science specialization from Johns Hopkins University, and a Google Data Analytics Professional Certificate, among others.
+In addition to my technical skills, I hold an Executive MBA, bachelor's degrees in Aviation Management and Accounting (CPA, CMA), a Data Science specialization from Johns Hopkins University, and a Google Data Analytics Professional Certificate, among others.
 
 </p>
 
