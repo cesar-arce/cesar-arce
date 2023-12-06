@@ -2,7 +2,8 @@
 
 ![Banner](./banner.png)
 
-### Welcome to my Data Science Portfolio. My passion is help you to increase your business competitiveness, sales growth and turnover your results, transforming Raw Data into valuable information to make better decisions !!  Using cutting-edge technologies, such as Machine Learning or Deep Learning (Python or R), Database ETL, Datalake ELT dbt, and Robotic Process Automation - RPA (using UiPath, Knime, etc.)👍
+### <p align="justify"> Welcome to my Data Science Portfolio. My passion is help you to increase your business competitiveness, sales growth and turnover your results, transforming Raw Data into valuable information to make better decisions !!  Using cutting-edge technologies, such as Machine Learning or Deep Learning (Python or R), Database ETL, Datalake ELT dbt, and Robotic Process Automation - RPA (using UiPath, Knime, etc.)👍
+</p>
 
 ## >> From Raw Data to Machine Learning (ML)
 
