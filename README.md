@@ -35,14 +35,10 @@ In addition to an Executive MBA, I hold bachelor's degrees in Aviation Managemen
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,vscode,react,powershell,regex,mysql,mongodb,postgres,sqlite,firebase,pytorch,tensorflow,matlab,ai,aws,gcp,azure,flask,linux,git,kubernetes,docker,github,githubactions,gitlab,discord,wordpress,arduino,raspberrypi,powerbi,tableau" />
+    <img src="https://skillicons.dev/icons?i=py,r,vscode,react,powershell,regex,mysql,mongodb,postgres,sqlite,firebase,pytorch,tensorflow,matlab,ai,aws,gcp,azure,flask,linux,git,kubernetes,docker,github,githubactions,gitlab,discord,wordpress,arduino,raspberrypi" />
   </a>
 </p>
 
-<img align="left" alt="Oracle Virtual Machine" width="30px" src="https://user-images.githubusercontent.com/63738694/124552842-0a5b7980-de02-11eb-8bc9-6c5c41d7ed57.jpg">
-<img align="left" alt="Excel" width="28px" src="https://user-images.githubusercontent.com/63738694/124551501-383fbe80-de00-11eb-9dc2-a68151531068.png">
-<img align="left" alt="PowerBI" width="26px" src="https://user-images.githubusercontent.com/63738694/124551496-3544ce00-de00-11eb-8661-3a27caeb2b3a.jpg">
-<img align="left" alt="Tableau" width="36px" src="https://user-images.githubusercontent.com/63738694/124550859-548f2b80-ddff-11eb-9783-3769b94e1b8a.png">
 </details>
 
 
