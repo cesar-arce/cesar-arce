@@ -56,6 +56,26 @@ In addition to an Executive MBA, I hold bachelor's degrees in Aviation Managemen
   </a>
 </p>
 
+<p align="center">
+    <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4nmLnUDqDJMNYnvoIw2LrMP67vPbDNngRztSxwDftPQ7Hjk6gtHYIOwjQuCU0CILeT8&usqp=CAU" alt="express" width="43" height="40" /> </a> 
+    <a href="https://jupyter.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQfO8XdRaElU-oiMX4jJFWjNO56ihBj8vLWl-8tZR0xFr4LL4nfzfXWLVCFeOjsGAZF4&usqp=CAU" alt="express" width="44" height="44"/> </a> 
+    <a href="https://www.jetbrains.com/pycharm/"> <img src="https://miro.medium.com/max/1200/1*6Dhu1H4t028lOGbaZuyRCw.png" alt="express" width="43" height="40" /> </a>
+    <a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true" target="_blank"> <img src="https://miro.medium.com/max/1042/1*L2u_koKpa1lcjvB8DEDHsg.jpeg" alt="express" width="44" height="44"/> </a> 
+    <a href="https://matplotlib.org/" target="_blank"> <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="express" width="44" height="44"/> </a> 
+    <a href="https://www.anaconda.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZuGFq2Tj9gvDP6Dm7w5TeYGrmCy0KOtwc8tvDsy606EmhjdsUZV_qx-RbQGhA-KDW3Y&usqp=CAU" alt="pytorch" width="48" height="48" /> </a> 
+    <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" alt="express" width="44" height="44"/> </a> 
+    <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="express" width="44" height="44"/> </a>
+    <a href="https://www.scipy.org/"> <img src="https://miro.medium.com/max/400/1*ejeltApvDzDBB9izIwnyiQ.png" width="40" height="40"/> </a>
+    <a href="https://spacy.io/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/699256981287100416/7-7zis8f_400x400.png" alt="pytorch" width="40" height="40"/> </a> 
+    <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="pytorch" width="40" height="40"/> </a>   
+    <a href="https://opencv.org/" target="_blank"> <img src="https://www.kindpng.com/picc/m/376-3766513_opencv-icon-hd-png-download.png" alt="pytorch" width="44" height="40"/> </a> 
+    <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://d11wkw82a69pyn.cloudfront.net/wm-reply/siteassets/images/power%20bi.png" alt="express" width="43" height="40" /> </a>  
+    <a href="https://uneecops.com/lpage/tableau-software-landing-page/?lead=Marketing%20Team&data=Pay%20per%20Click%20Ads&leadtype=BI&service=Tableau&utm_term=tablu&utm_campaign=Tableau+BI&utm_source=adwords&utm_medium=ppc&hsa_acc=8552612374&hsa_cam=1615962432&hsa_grp=61145525276&hsa_ad=518466757380&hsa_src=g&hsa_tgt=kwd-301142873929&hsa_kw=tablu&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw_8mHBhClARIsABfFgpjsZ7xm6kFh91pMncn7q1OAIqVApO9Uae5JTl9YNamEy5dnCO3C9TQaAmS_EALw_wcB" target="_blank"> <img src="https://logowik.com/content/uploads/images/tableau-software.jpg" alt="express" width="43" height="37" /> </a> 
+    <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+    <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code
+</p>
+
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
