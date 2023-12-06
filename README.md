@@ -1,3 +1,13 @@
+<h2 align="left" style="font-size: 24px;">
+    print("Hello World !!")
+    <img src="/waving.gif" 
+         alt="Waving"
+         height="45"
+         width="45" />
+</h2>
+
+
+
 # print("Hello World !!") 👋
 
 ![Banner](./banner.png)
