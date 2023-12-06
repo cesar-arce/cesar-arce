@@ -20,7 +20,7 @@
 
 📊 Business Analytics – BA (focuses on predictive analytics), as a Data Scientist specialist, I work using your company’s data to anticipate trends and outcomes. Typically includes Data Mining, Statistical and Quantitative analysis, Predictive Modeling, and Machine Learning (ML) to anticipate and determine the likelihood of future outcomes, that help make more informed decisions, and make the changes necessary to succeed. In effect, like business analytics, I prepare a predictive analysis to solve problems before they’ve occurred.
 
-  </p>
+</p>
 
 ### My Background:
 
