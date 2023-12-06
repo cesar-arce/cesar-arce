@@ -1,4 +1,4 @@
-<h2 align="left" style="font-size: 80px;">
+<h2 align="left" style="font-size: 48px;">
     print("Hello World !!")
     <img src="/waving.gif" 
          alt="Waving"
