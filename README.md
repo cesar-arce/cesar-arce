@@ -32,7 +32,7 @@ In addition to an Executive MBA, I hold bachelor's degrees in Aviation Managemen
 
 </p>
 <p align="justify">
-💬 Ask me about: Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project, MySQL, PostgreSQL, SQL Server - SSMS, AWS (S3, EC2, Lambda, SageMaker), Snowflake, Snowpark, Streamlit, Alteryx / KNIME, EDA (Exploratory Data Analysis), ETL (Extract-Transfer-Load), Power BI (Desktop-Service-Mobile), Tableau, Python (NumPy, Pandas, Matplotlib, Seaborn, Bokeh), Practical Machine Learning (ML), Deep Learning (DL), Data Modeling in R (tidyr, ggplot2, plotly, dplyr, Keras).
+💬 Ask me about: Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project, MySQL, PostgreSQL, SQL Server - SSMS, AWS (S3, EC2, Lambda, SageMaker), Snowflake, Snowpark, Streamlit, Alteryx / KNIME, EDA (Exploratory Data Analysis), Database ETL (Extract-Transform-Load), Datalake ELT (Extract-Load-Transform),Power BI (Desktop-Service-Mobile), Tableau, Python (NumPy, Pandas, Matplotlib, Seaborn, Bokeh), Practical Machine Learning (ML), Deep Learning (DL), Data Modeling in R (tidyr, ggplot2, plotly, dplyr, Keras).
 
 </p>
 
