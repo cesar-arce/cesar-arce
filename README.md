@@ -36,9 +36,9 @@ In addition to an Executive MBA, I hold bachelor's degrees in Aviation Managemen
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r,vscode,react,powershell,regex,mysql,mongodb,postgres,sqlite,firebase,pytorch,tensorflow,matlab,ai,aws,gcp,azure,flask,linux,git,kubernetes,docker,github,githubactions,gitlab,discord,wordpress" />
+      <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+      <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code
   </a>
-  <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-  <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code
 </p>
 
 <!--- snake -->
