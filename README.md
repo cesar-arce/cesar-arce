@@ -49,4 +49,10 @@ In addition to an Executive MBA, I hold bachelor's degrees in Aviation Managemen
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 </details>
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,mysql,mongodb,postgres,sqlite,pytorch,tensorflow,matlab,ai,aws,gcp,azure,linux,git,kubernetes,docker,github,githubactions,gitlab,arduino" />
+  </a>
+</p>
