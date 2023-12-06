@@ -33,26 +33,19 @@ In addition to an Executive MBA, I hold bachelor's degrees in Aviation Managemen
 
 ### Languages and Tools:
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,powershell,mysql,mongodb,postgres,sqlite,pytorch,tensorflow,matlab,ai,aws,gcp,azure,linux,git,kubernetes,docker,github,githubactions,gitlab,arduino" />
+  </a>
+</p>
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <img align="left" alt="PyCharm" width="36px" src="https://user-images.githubusercontent.com/63738694/124551882-c6b44000-de00-11eb-913d-fc32307a5c3d.jpg">
-<img align="left" alt="Python" width="66px" src="https://user-images.githubusercontent.com/63738694/124549148-c154f680-ddfc-11eb-948e-5b073ea1e210.jpg">
-<img align="left" alt="R" width="26px" src="https://user-images.githubusercontent.com/63738694/124549159-c5811400-ddfc-11eb-993b-7ded767b6752.jpg">
-<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-<img align="left" alt="MySQL" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img align="left" alt="PostgreSQL" width="46px" src="https://user-images.githubusercontent.com/63738694/124550346-8489ff00-ddfe-11eb-872b-8cd5208e1d26.jpg">
-<img align="left" alt="MongoDB" width="76px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 <img align="left" alt="Oracle Virtual Machine" width="30px" src="https://user-images.githubusercontent.com/63738694/124552842-0a5b7980-de02-11eb-8bc9-6c5c41d7ed57.jpg">
 <img align="left" alt="Excel" width="28px" src="https://user-images.githubusercontent.com/63738694/124551501-383fbe80-de00-11eb-9dc2-a68151531068.png">
 <img align="left" alt="PowerBI" width="26px" src="https://user-images.githubusercontent.com/63738694/124551496-3544ce00-de00-11eb-8661-3a27caeb2b3a.jpg">
 <img align="left" alt="Tableau" width="36px" src="https://user-images.githubusercontent.com/63738694/124550859-548f2b80-ddff-11eb-9783-3769b94e1b8a.png">
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 </details>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,mysql,mongodb,postgres,sqlite,pytorch,tensorflow,matlab,ai,aws,gcp,azure,linux,git,kubernetes,docker,github,githubactions,gitlab,arduino" />
-  </a>
-</p>
+
