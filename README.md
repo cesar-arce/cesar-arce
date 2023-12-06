@@ -35,12 +35,10 @@ In addition to an Executive MBA, I hold bachelor's degrees in Aviation Managemen
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,vscode,react,powershell,regex,mysql,mongodb,postgres,sqlite,firebase,pytorch,tensorflow,matlab,ai,aws,gcp,azure,flask,linux,git,kubernetes,docker,github,githubactions,gitlab,discord,wordpress,jenkins,arduino,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=py,r,vscode,react,powershell,regex,mysql,mongodb,postgres,sqlite,firebase,pytorch,tensorflow,matlab,ai,aws,gcp,azure,flask,linux,git,kubernetes,docker,github,githubactions,gitlab,discord,wordpress,arduino,raspberrypi" />
   </a>
 </p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img align="left" alt="PyCharm" width="36px" src="https://user-images.githubusercontent.com/63738694/124551882-c6b44000-de00-11eb-913d-fc32307a5c3d.jpg">
 <img align="left" alt="Oracle Virtual Machine" width="30px" src="https://user-images.githubusercontent.com/63738694/124552842-0a5b7980-de02-11eb-8bc9-6c5c41d7ed57.jpg">
 <img align="left" alt="Excel" width="28px" src="https://user-images.githubusercontent.com/63738694/124551501-383fbe80-de00-11eb-9dc2-a68151531068.png">
 <img align="left" alt="PowerBI" width="26px" src="https://user-images.githubusercontent.com/63738694/124551496-3544ce00-de00-11eb-8661-3a27caeb2b3a.jpg">
