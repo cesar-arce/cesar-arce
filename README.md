@@ -39,6 +39,12 @@ In addition to an Executive MBA, I hold bachelor's degrees in Aviation Managemen
   </a>
 </p>
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 </details>
 
 
