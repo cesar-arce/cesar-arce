@@ -9,7 +9,8 @@
 <img align="right" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp?cid=ecf05e47mzeffq7vpenyl85y483zxl8gl5srjjduorf9jb0c&rid=200.webp&ct=g" width="500"/>
 
 ### My Specialties:
- <p align="justify">
+
+<p align="justify">
 🚀 Data Scientist - As a Data Scientist specializing in Machine Learning and Artificial Intelligence, I implement Machine Learning and Deep Learning models to extract valuable insights from data. I use advanced algorithms and modeling techniques to solve complex problems and make accurate predictions, optimize processes and enable intelligent task automation. I am passionate about exploring new AI methods and technologies to solve real-world challenges and contribute to innovation in various fields.
 
 📈 Business Intelligence – BI (focuses on descriptive analytics), I work transforming data into insights that drive business value. To improve and maintain operational efficiency and helps companies to increase organizational productivity; managers can generate intuitive, readable reports that contain relevant, actionable data. As BI analysts, I can identify trends that can help other departments, managers, and executives make business decisions to modernize and improve processes in the organization. As BI analysts, I can discover areas of revenue loss and identify where improvements can be made to save the company money or increase profits. 
@@ -19,11 +20,13 @@
 </p>
 
 ### My Background:
- <p align="justify">
+
+<p align="justify">
 In addition to an Executive MBA, I hold bachelor's degrees in Aviation Management and Accounting (CPA, CMA), a Data Science specialization from Johns Hopkins University, and a Google Data Analytics Professional Certificate, among others.
 
 
 💬 Ask me about: Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project, MySQL, PostgreSQL, SQL Server - SSMS, AWS (S3, EC2, Lambda, SageMaker), Snowflake, Snowpark, Streamlit, Alteryx / KNIME, EDA (Exploratory Data Analysis), ETL (Extract-Transfer-Load), Power BI (Desktop-Service-Mobile), Tableau, Python (NumPy, Pandas, Matplotlib, Seaborn, Bokeh), Practical Machine Learning (ML), Deep Learning (DL), Data Modeling in R (tidyr, ggplot2, plotly, dplyr, Keras).
+
 </p>
 
 📫 How to reach me:   [My Site](https://cesararce5.wixsite.com/mysite) or My [LinkedIn](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713/)
