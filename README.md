@@ -13,13 +13,14 @@
 ### My Specialties:
 
 <p align="justify">
+  
 🚀 Data Scientist - As a Data Scientist specializing in Machine Learning and Artificial Intelligence, I implement Machine Learning and Deep Learning models to extract valuable insights from data. I use advanced algorithms and modeling techniques to solve complex problems and make accurate predictions, optimize processes and enable intelligent task automation. I am passionate about exploring new AI methods and technologies to solve real-world challenges and contribute to innovation in various fields.
 
 📈 Business Intelligence – BI (focuses on descriptive analytics), I work transforming data into insights that drive business value. To improve and maintain operational efficiency and helps companies to increase organizational productivity; managers can generate intuitive, readable reports that contain relevant, actionable data. As BI analysts, I can identify trends that can help other departments, managers, and executives make business decisions to modernize and improve processes in the organization. As BI analysts, I can discover areas of revenue loss and identify where improvements can be made to save the company money or increase profits. 
 
 📊 Business Analytics – BA (focuses on predictive analytics), as a Data Scientist specialist, I work using your company’s data to anticipate trends and outcomes. Typically includes Data Mining, Statistical and Quantitative analysis, Predictive Modeling, and Machine Learning (ML) to anticipate and determine the likelihood of future outcomes, that help make more informed decisions, and make the changes necessary to succeed. In effect, like business analytics, I prepare a predictive analysis to solve problems before they’ve occurred.
 
-</p>
+  </p>
 
 ### My Background:
 
