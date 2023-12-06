@@ -1,13 +1,12 @@
 # print("Hello World !!") 👋
 
 ![Banner](./banner.png)
+
 ### Welcome to my Data Science Portfolio. My passion is help you to increase your business competitiveness, sales growth and turnover your results, transforming Raw Data into valuable information to make better decisions !!  Using cutting-edge technologies, such as Machine Learning or Deep Learning (Python or R), Database ETL, Datalake ELT dbt, and Robotic Process Automation - RPA (using UiPath, Knime, etc.)👍
 
 ## >> From Raw Data to Machine Learning (ML)
 
 <img align="right" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp?cid=ecf05e47mzeffq7vpenyl85y483zxl8gl5srjjduorf9jb0c&rid=200.webp&ct=g" width="500"/>
-
-<p style='text-align: justify;'>
 
 ### My Specialties:
  <p align="justify">
@@ -16,6 +15,7 @@
 📈 Business Intelligence – BI (focuses on descriptive analytics), I work transforming data into insights that drive business value. To improve and maintain operational efficiency and helps companies to increase organizational productivity; managers can generate intuitive, readable reports that contain relevant, actionable data. As BI analysts, I can identify trends that can help other departments, managers, and executives make business decisions to modernize and improve processes in the organization. As BI analysts, I can discover areas of revenue loss and identify where improvements can be made to save the company money or increase profits. 
 
 📊 Business Analytics – BA (focuses on predictive analytics), as a Data Scientist specialist, I work using your company’s data to anticipate trends and outcomes. Typically includes Data Mining, Statistical and Quantitative analysis, Predictive Modeling, and Machine Learning (ML) to anticipate and determine the likelihood of future outcomes, that help make more informed decisions, and make the changes necessary to succeed. In effect, like business analytics, I prepare a predictive analysis to solve problems before they’ve occurred.
+
 </p>
 
 ### My Background:
@@ -28,7 +28,6 @@ In addition to an Executive MBA, I hold bachelor's degrees in Aviation Managemen
 
 📫 How to reach me:   [My Site](https://cesararce5.wixsite.com/mysite) or My [LinkedIn](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713/)
 
-</p>
 
 <img src="https://user-images.githubusercontent.com/63738694/124544036-5c959e00-ddf4-11eb-9907-019cd4429a59.jpg" width="180">,
 <img src="https://user-images.githubusercontent.com/63738694/124542515-826d7380-ddf1-11eb-8fec-86193a1c3d7e.jpg" width="180">,
