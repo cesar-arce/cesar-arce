@@ -11,9 +11,7 @@
 # print("Hello World !!") 👋
 -->
 
-<p align="justify"> # I can help you unlock the true potential of your data
-
-</p>
+# I can help you unlock the true potential of your data
 
 ![Banner](./banner.png)
 
