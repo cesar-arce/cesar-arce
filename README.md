@@ -21,7 +21,9 @@
 
 </p>
 
-## >> From Raw Data, through Machine Learning (ML), to Artificial Intelligence (AI)
+## <p align="justify"> >> From Raw Data, through Machine Learning (ML), to Artificial Intelligence (AI)
+
+</p>
 
 <img align="right" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp?cid=ecf05e47mzeffq7vpenyl85y483zxl8gl5srjjduorf9jb0c&rid=200.webp&ct=g" width="500"/>
 
