@@ -165,6 +165,13 @@ Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project,
 ![](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
 ![](https://img.shields.io/badge/Microsoft-5E5E5E.svg?style=for-the-badge&logo=Microsoft&logoColor=white)
+![](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
+![](https://img.shields.io/badge/Microsoft%20Word-2B579A.svg?style=for-the-badge&logo=Microsoft-Word&logoColor=white)
+![](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A.svg?style=for-the-badge&logo=Microsoft-PowerPoint&logoColor=white)
+![](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4.svg?style=for-the-badge&logo=Microsoft-OneDrive&logoColor=white)
+![](https://img.shields.io/badge/Microsoft%20SharePoint-0078D4.svg?style=for-the-badge&logo=Microsoft-SharePoint&logoColor=white)
+![](https://img.shields.io/badge/Microsoft%20Visio-3955A3.svg?style=for-the-badge&logo=Microsoft-Visio&logoColor=white)
+![](https://img.shields.io/badge/Microsoft%20Access-A4373A.svg?style=for-the-badge&logo=Microsoft-Access&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
 ![](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
