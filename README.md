@@ -29,7 +29,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.2.0-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io)
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
 [![RStudio](https://img.shields.io/badge/RStudio-project-75AADB.svg?style=flat&logo=RStudio)](https://www.rstudio.com)
-![Amazon AWS](https://a11ybadges.com/badge?logo=amazonaws)
+![Amazon AWS](https://img.shields.io/badge?logo=amazonaws)
 
 ![Banner](./banner.png)
 
