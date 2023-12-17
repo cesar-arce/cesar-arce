@@ -30,6 +30,8 @@
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
 [![RStudio](https://img.shields.io/badge/RStudio-project-75AADB.svg?style=flat&logo=RStudio)](https://www.rstudio.com)
 [![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
+![PyPI - Versions from Framework Classifiers](https://img.shields.io/pypi/frameworkversions/aws-cdk/:packageName)
+
 
 ![Banner](./banner.png)
 
