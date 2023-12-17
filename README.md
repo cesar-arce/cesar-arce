@@ -15,7 +15,7 @@
 
 </p>
 
-<p align="justify">
+<p align="justify"
 [![cesar-arce github](https://img.shields.io/badge/GitHub-cesar-arce.svg?style=flat&logo=github)](https://github.com/cesar-arce)
 [![Cesar Arce website](https://img.shields.io/badge/Website-Cesar_Arce-5087B2.svg?style=flat&logo=telegram)](https://cesararce5.wixsite.com/mysite)
 [![python](https://img.shields.io/badge/Python-3.06|3.07|3.08|3.09|3.10|3.11|3.12-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
@@ -30,7 +30,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.2.0-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io)
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
 [![RStudio](https://img.shields.io/badge/RStudio-project-75AADB.svg?style=flat&logo=RStudio)](https://www.rstudio.com)
-</p>
+>
 
 ![Banner](./banner.png)
 
