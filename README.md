@@ -30,29 +30,29 @@
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
 [![RStudio](https://img.shields.io/badge/RStudio-project-75AADB.svg?style=flat&logo=RStudio)](https://www.rstudio.com)
 
-'''
-[![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white)(www.conda.org)
-https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white
-https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white
-https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white
-https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white
-https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white
-https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white
-https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white
-https://img.shields.io/badge/Amazon%20ECS-FF9900.svg?style=for-the-badge&logo=Amazon-ECS&logoColor=white
-https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=white
-https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white
-https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white
-https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white
-https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white
-https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white
-https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black
-https://img.shields.io/badge/Microsoft-5E5E5E.svg?style=for-the-badge&logo=Microsoft&logoColor=white
-https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black
 
-https://img.shields.io/badge/Bombardier-020203.svg?style=for-the-badge&logo=Bombardier&logoColor=white
-https://img.shields.io/badge/Boeing-1D439C.svg?style=for-the-badge&logo=Boeing&logoColor=white
-'''
+(https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white)(www.conda.org)
+(https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+(https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+(https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+(https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)
+(https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
+(https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+(https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white)
+(https://img.shields.io/badge/Amazon%20ECS-FF9900.svg?style=for-the-badge&logo=Amazon-ECS&logoColor=white)
+(https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=white)
+(https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
+(https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
+(https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+(https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white)
+(https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
+(https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+(https://img.shields.io/badge/Microsoft-5E5E5E.svg?style=for-the-badge&logo=Microsoft&logoColor=white)
+(https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
+
+(https://img.shields.io/badge/Bombardier-020203.svg?style=for-the-badge&logo=Bombardier&logoColor=white)
+(https://img.shields.io/badge/Boeing-1D439C.svg?style=for-the-badge&logo=Boeing&logoColor=white)
+
 
 ![Banner](./banner.png)
 
