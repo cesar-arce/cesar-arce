@@ -39,7 +39,7 @@
 
 </p>
 
-## <p align="justify"> >> From Raw Data, through Machine Learning (ML), to Artificial Intelligence (AI)
+## <p align="justify"> >> Transforming Raw Data with Data Science into Artificial Intelligence (AI)
 
 </p>
 
