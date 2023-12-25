@@ -16,7 +16,6 @@
 </p>
 
 [![cesar-arce github](https://img.shields.io/badge/GitHub-Cesar-Arce.svg?style=flat&logo=github)](https://github.com/cesar-arce)
-[![GitHub all releases](https://img.shields.io/github/downloads/:user/https%3A%2F%2Fgithub.com%2Fcesar-arce/total)](https://github.com/cesar-arce)
 [![Cesar Arce website](https://img.shields.io/badge/Website-Cesar_Arce-5087B2.svg?style=flat&logo=telegram)](https://cesararce5.wixsite.com/mysite)
 [![Cesar Arce LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Arce-5087B2.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713)
 [![python](https://img.shields.io/badge/Python-3.06|3.07|3.08|3.09|3.10|3.11|3.12-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
