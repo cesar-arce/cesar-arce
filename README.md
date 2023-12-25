@@ -22,6 +22,7 @@
 [![jupyter](https://img.shields.io/badge/Jupyter-NoteBook-F37626.svg?style=flat&logo=Jupyter)](https://jupyter.org)
 [![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
 [![VS Code](https://img.shields.io/badge/VS_Code-badge-blue.svg?logo=visualstudiocode)](https://code.visualstudio.com/)
+[![VS Code Dev](https://img.shields.io/badge/VS_Code_Dev-badge-blue.svg?logo=visualstudiocode)](https://vscode.dev/)
 [![tensorflow](https://img.shields.io/badge/TensorFlow-1.12-FF6F00.svg?style=flat&logo=tensorflow)](https://www.tensorflow.org)
 [![Keras](https://img.shields.io/badge/Keras-3.0-FF6F00.svg?style=flat&logo=keras)](https://keras.io/)
 [![pytorch](https://img.shields.io/badge/PyTorch-1.6.0-EE4C2C.svg?style=flat&logo=pytorch)](https://pytorch.org)
