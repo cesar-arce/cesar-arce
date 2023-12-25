@@ -28,7 +28,7 @@
 [![pytorch](https://img.shields.io/badge/PyTorch-1.6.0-EE4C2C.svg?style=flat&logo=pytorch)](https://pytorch.org)
 [![Snowflake](https://img.shields.io/badge/Snowflake-DataBase-5087B2.svg?style=flat&logo=snowflake)](https://docs.snowflake.com/)
 [![Snowflake](https://img.shields.io/badge/Snowflake-Streamlit-5087B2.svg?style=flat&logo=snowflake)](https://docs.snowflake.com/)
-[![Amazon AWS](http://img.shields.io/badge/Amazon-Services-5087B2.svg?style=flat&logo=amazom)](https://aws.amazon.com/)
+[![Amazon AWS](http://img.shields.io/badge/Amazon-Services-5087B2.svg?style=flat&logo=aws)](https://aws.amazon.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.63.0-009688.svg?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.2.0-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io)
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
