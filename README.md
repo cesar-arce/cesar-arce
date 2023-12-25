@@ -19,6 +19,7 @@
 [![Cesar Arce website](https://img.shields.io/badge/Website-Cesar_Arce-5087B2.svg?style=flat&logo=telegram)](https://cesararce5.wixsite.com/mysite)
 [![Cesar Arce LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Arce-5087B2.svg?style=flat&logo=linkedin&logoColor=5087B2)](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713)
 [![python](https://img.shields.io/badge/Python-3.06|3.07|3.08|3.09|3.10|3.11|3.12-3776AB.svg?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.2.0-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io)
 [![jupyter](https://img.shields.io/badge/Jupyter-NoteBook-F37626.svg?style=flat&logo=Jupyter)](https://jupyter.org)
 [![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
 [![VS Code](https://img.shields.io/badge/VS_Code-1.85-blue.svg?logo=visualstudiocode&logoColor=%230077B5)](https://code.visualstudio.com/)
@@ -33,7 +34,6 @@
 [![Google](https://img.shields.io/badge/Google-Services-4285F4?style=flat&logo=google&logoColor=white)](https://www.google.com/)
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)](https://chat.openai.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.63.0-009688.svg?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.2.0-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io)
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
 [![RStudio](https://img.shields.io/badge/RStudio-project-75AADB.svg?style=flat&logo=RStudio)](https://www.rstudio.com)
 
