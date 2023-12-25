@@ -30,7 +30,7 @@
 [![Snowflake](https://img.shields.io/badge/Snowflake-DataBase-5087B2.svg?style=flat&logo=snowflake)](https://docs.snowflake.com/)
 [![Snowflake](https://img.shields.io/badge/Snowflake-Streamlit-5087B2.svg?style=flat&logo=snowflake)](https://docs.snowflake.com/)
 [![Amazon_AWS](http://img.shields.io/badge/AWS-Services-5087B2.svg?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
-[![Google](https://img.shields.io/badge/google-Services-4285F4?style=flat&logo=google&logoColor=white)](https://www.google.com/)
+[![Google](https://img.shields.io/badge/Google-Services-4285F4?style=flat&logo=google&logoColor=white)](https://www.google.com/)
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)](https://chat.openai.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.63.0-009688.svg?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.2.0-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io)
