@@ -23,7 +23,7 @@
 [![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
 [![VS Code](https://img.shields.io/badge/VS_Code-1.85-blue.svg?logo=visualstudiocode)](https://code.visualstudio.com/)
 [![VS Code Dev](https://img.shields.io/badge/VS_Code_Dev-OnLine-blue.svg?logo=visualstudiocode)](https://vscode.dev/)
-[![Docker](https://img.shields.io/badge/docker-Docker_Hub.svg?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/)
 [![tensorflow](https://img.shields.io/badge/TensorFlow-1.12-FF6F00.svg?style=flat&logo=tensorflow)](https://www.tensorflow.org)
 [![Keras](https://img.shields.io/badge/Keras-3.0-FF6F00.svg?style=flat&logo=Keras)](https://keras.io/)
 [![pytorch](https://img.shields.io/badge/PyTorch-1.6.0-EE4C2C.svg?style=flat&logo=pytorch)](https://pytorch.org)
