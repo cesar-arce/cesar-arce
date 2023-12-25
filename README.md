@@ -26,7 +26,7 @@
 [![tensorflow](https://img.shields.io/badge/TensorFlow-1.12-FF6F00.svg?style=flat&logo=tensorflow)](https://www.tensorflow.org)
 [![Keras](https://img.shields.io/badge/Keras-3.0-FF6F00.svg?style=flat&logo=keras)](https://keras.io/)
 [![pytorch](https://img.shields.io/badge/PyTorch-1.6.0-EE4C2C.svg?style=flat&logo=pytorch)](https://pytorch.org)
-[![Snowflake](https://img.shields.io/badge/Snowflake-DataBase.svg?style=flat&logo=snowflake)](https://docs.snowflake.com/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-DataBase-5087B2.svg?style=flat&logo=snowflake)](https://docs.snowflake.com/)
 [![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
 [![pydocstyle](https://img.shields.io/badge/pydocstyle-enabled-AD4CD3)](http://www.pydocstyle.org/en/stable/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.63.0-009688.svg?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
