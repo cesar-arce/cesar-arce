@@ -28,7 +28,7 @@
 [![Keras](https://img.shields.io/badge/Keras-3.0-FF6F00.svg?style=flat&logo=Keras)](https://keras.io/)
 [![pytorch](https://img.shields.io/badge/PyTorch-1.6.0-EE4C2C.svg?style=flat&logo=pytorch)](https://pytorch.org)
 [![Snowflake](https://img.shields.io/badge/Snowflake-DataBase-5087B2.svg?style=flat&logo=snowflake)](https://docs.snowflake.com/)
-[![Snowflake](https://img.shields.io/badge/Snowflake-Streamlit-5087B2.svg?style=flat&logo=snowflake)](https://docs.snowflake.com/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-Streamlit-5087B2.svg?style=flat&logo=snowflake)](https://docs.snowflake.com/en/developer-guide/streamlit/about-streamlit)
 [![Amazon_AWS](http://img.shields.io/badge/AWS-Services-5087B2.svg?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
 [![Google](https://img.shields.io/badge/Google-Services-4285F4?style=flat&logo=google&logoColor=white)](https://www.google.com/)
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)](https://chat.openai.com/)
