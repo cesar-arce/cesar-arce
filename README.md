@@ -19,7 +19,7 @@
 [![Cesar Arce website](https://img.shields.io/badge/Website-Cesar_Arce-5087B2.svg?style=flat&logo=telegram)](https://cesararce5.wixsite.com/mysite)
 [![Cesar Arce LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Arce-5087B2.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713)
 [![python](https://img.shields.io/badge/Python-3.06|3.07|3.08|3.09|3.10|3.11|3.12-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![jupyter](https://img.shields.io/badge/Jupyter-Jupyter_NoteBook-F37626.svg?style=flat&logo=Jupyter)](https://jupyter.org)
+[![jupyter](https://img.shields.io/badge/Jupyter-NoteBook-F37626.svg?style=flat&logo=Jupyter)](https://jupyter.org)
 [![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
 [![pytorch](https://img.shields.io/badge/PyTorch-1.6.0-EE4C2C.svg?style=flat&logo=pytorch)](https://pytorch.org)
 [![tensorflow](https://img.shields.io/badge/TensorFlow-1.12-FF6F00.svg?style=flat&logo=tensorflow)](https://www.tensorflow.org)
