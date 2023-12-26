@@ -154,7 +154,7 @@ Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project,
 ![](https://img.shields.io/badge/Folium-77B829.svg?style=flat&logo=Folium&logoColor=white)
 ![](https://img.shields.io/badge/Scikit_learn-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue)
+![mlflow](https://img.shields.io/badge/ML_Flow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue)
 ![](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=flat&logo=SciPy&logoColor=white)
 ![](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=OpenCV&logoColor=white)
 ![](https://img.shields.io/badge/Scrapy-60A839.svg?style=flat&logo=Scrapy&logoColor=white)
