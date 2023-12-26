@@ -35,7 +35,7 @@
 [![Snowpark](https://img.shields.io/badge/Snowflake-Snowpark-5087B2.svg?style=flat&logo=snowflake)](https://www.snowflake.com/en/data-cloud/snowpark/)
 [![Snowflake](https://img.shields.io/badge/Snowflake-Streamlit-5087B2.svg?style=flat&logo=snowflake)](https://docs.snowflake.com/en/developer-guide/streamlit/about-streamlit)
 [![Amazon_AWS](http://img.shields.io/badge/AWS-Services-5087B2.svg?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
-[![Google](https://img.shields.io/badge/Google-Services-4285F4?style=flat&logo=google&logoColor=white)](https://www.google.com/)
+[![Google](https://img.shields.io/badge/Google-Looker_Studio-4285F4?style=flat&logo=google&logoColor=white)](https://www.google.com/)
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)](https://chat.openai.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.63.0-009688.svg?style=flat&logo=FastAPI&logoColor=009688)](https://fastapi.tiangolo.com)
 [![R](https://img.shields.io/badge/R-Script-276DC3.svg?style=flat&logo=R&logoColor=75AADB)](https://cran.r-project.org)
