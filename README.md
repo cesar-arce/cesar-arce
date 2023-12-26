@@ -153,6 +153,7 @@ Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project,
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Folium-77B829.svg?style=flat&logo=Folium&logoColor=white)
 ![](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue)
 ![](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=flat&logo=SciPy&logoColor=white)
 ![](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=OpenCV&logoColor=white)
 ![](https://img.shields.io/badge/Scrapy-60A839.svg?style=flat&logo=Scrapy&logoColor=white)
