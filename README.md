@@ -20,7 +20,7 @@
 [![Cesar Arce LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Arce-5087B2.svg?style=flat&logo=linkedin&logoColor=5087B2)](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713)
 [![python](https://img.shields.io/badge/Python-3.06|3.07|3.08|3.09|3.10|3.11|3.12-3776AB.svg?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.2.0-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=FF4B4B)](https://streamlit.io)
-[![Spyder](https://img.shields.io/badge/Spyder%20IDE-FF0000.svg?style=flate&logo=Spyder-IDE&logoColor=white)]
+[![Spyder](https://img.shields.io/badge/Spyder%20IDE-FF0000.svg?style=flate&logo=Spyder-IDE&logoColor=white)](https://docs.spyder-ide.org/5/plugins/notebook.html)
 [![jupyter](https://img.shields.io/badge/Jupyter-NoteBook-F37626.svg?style=flat&logo=Jupyter)](https://jupyter.org)
 [![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
 [![VS Code](https://img.shields.io/badge/VS_Code-1.85-blue.svg?logo=visualstudiocode&logoColor=%230077B5)](https://code.visualstudio.com/)
