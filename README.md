@@ -39,7 +39,7 @@
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)](https://chat.openai.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.63.0-009688.svg?style=flat&logo=FastAPI&logoColor=009688)](https://fastapi.tiangolo.com)
 [![R](https://img.shields.io/badge/R-Script-276DC3.svg?style=flat&logo=R&logoColor=276DC3)](https://cran.r-project.org)
-[![RStudio](https://img.shields.io/badge/RStudio-project-75AADB.svg?style=flat&logo=RStudio)](https://www.rstudio.com)
+[![RStudio](https://img.shields.io/badge/RStudio-Project-75AADB.svg?style=flat&logo=RStudio)](https://www.rstudio.com)
 
 <!-- 
 [AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
