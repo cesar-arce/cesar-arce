@@ -175,6 +175,7 @@ Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project,
 ![](https://img.shields.io/badge/SAP-0FAAFF.svg?style=flat&logo=SAP&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699.svg?style=flat&logo=Sass&logoColor=white)
 ![](https://img.shields.io/badge/dbt-FF694B.svg?style=flat&logo=dbt&logoColor=white)
+![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=flat&logo=Yahoo!&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat&logo=rstudio&logoColor=white)
