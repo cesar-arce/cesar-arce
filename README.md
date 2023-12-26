@@ -37,7 +37,7 @@
 [![Amazon_AWS](http://img.shields.io/badge/AWS-Services-5087B2.svg?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
 [![Google](https://img.shields.io/badge/Google-Services-4285F4?style=flat&logo=google&logoColor=white)](https://www.google.com/)
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)](https://chat.openai.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.63.0-009688.svg?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.63.0-009688.svg?style=flat&logo=FastAPI&logoColor=009688)](https://fastapi.tiangolo.com)
 [![R](https://img.shields.io/badge/R-Script-276DC3.svg?style=flat&logo=R&logoColor=276DC3)](https://cran.r-project.org)
 [![RStudio](https://img.shields.io/badge/RStudio-project-75AADB.svg?style=flat&logo=RStudio)](https://www.rstudio.com)
 
