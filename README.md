@@ -27,6 +27,7 @@
 [![VS Code Dev](https://img.shields.io/badge/VS_Code_Dev-OnLine-blue.svg?logo=visualstudiocode&logoColor=%230077B5)](https://vscode.dev/)
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)](https://colab.research.google.com/)
 [![Data](https://img.shields.io/badge/datascience-DataScience.svg?logo=datascience](https://en.wikipedia.org/wiki/Data_science)
+[![](https://img.shields.io/python/v/python.svg?logo=python)]
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/)
 [![Scikitlearn](https://img.shields.io/badge/Scikit_learn-1.3.2-F7931E.svg?style=flat&logo=scikit-learn&logoColor=F7931E)](https://scikit-learn.org/stable/)
 [![PyPI](https://img.shields.io/badge/PyPI-v1.3.2-F7931E.svg?style=flat&logo=scikit-learn&logoColor=F7931E)](https://pypi.org/project/scikit-learn/)
