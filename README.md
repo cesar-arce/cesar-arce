@@ -176,6 +176,7 @@ Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project,
 ![](https://img.shields.io/badge/Sass-CC6699.svg?style=flat&logo=Sass&logoColor=white)
 ![](https://img.shields.io/badge/dbt-FF694B.svg?style=flat&logo=dbt&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat&logo=rstudio&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white)
 ![](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat&logo=Kubernetes&logoColor=white)
 
