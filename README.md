@@ -160,7 +160,7 @@ Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project,
 ![](https://img.shields.io/badge/Scrapy-60A839.svg?style=flat&logo=Scrapy&logoColor=white)
 ![](https://img.shields.io/badge/data.ai-000000.svg?style=flat&logo=datadotai&logoColor=white)
 ![](https://img.shields.io/badge/ChatBot-0066FF.svg?style=flat&logo=ChatBot&logoColor=white)
-![](https://img.shields.io/badge/spaCy-09A3D5.svg?style=flat&logo=spaCy&logoColor=white)
+![](https://img.shields.io/badge/Spacy-09A3D5.svg?style=flat&logo=spaCy&logoColor=white)
 
 ![](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=flat&logo=Amazon-AWS&logoColor=white)
 ![](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=flat&logo=Amazon-S3&logoColor=white)
