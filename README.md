@@ -15,7 +15,7 @@
 
 </p>
 
-[![CesarArce GitHub](https://img.shields.io/badge/GitHub-CesarArce.svg?style=flat&logo=github)](https://github.com/cesar-arce)
+[![Cesar-Arce GitHub](https://img.shields.io/badge/GitHub-Cesar-Arce.svg?style=flat&logo=github)](https://github.com/cesar-arce)
 [![Website](https://img.shields.io/badge/Website-Cesar_Arce-5087B2.svg?style=flat&logo=telegram)](https://cesararce5.wixsite.com/mysite)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Arce-%230077B5.svg?style=flat&logo=linkedin&logoColor=%230077B5)](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713)
 [![python](https://img.shields.io/badge/Python-3.06|3.07|3.08|3.09|3.10|3.11|3.12-3776AB.svg?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org)
