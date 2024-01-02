@@ -11,7 +11,7 @@
 # print("Hello World !!") 👋
 -->
 
-# <p align="justify"> 🚀 Data Science is my passion!
+# <p align="justify"> 🚀 Data Science and Artificial Intelligence are my passions!
 
 </p>
 
