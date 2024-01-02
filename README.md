@@ -15,7 +15,7 @@
 
 </p>
 
-# <p align="justify"> 🔓 I can help you to unlock the true potential of your data
+# <p align="justify"> 🔓 I can help you how to unlock the true potential of your data
 
 </p>
 
