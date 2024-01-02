@@ -138,7 +138,7 @@ Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project,
 
 
 <!--  
--->
+
 ![](https://img.shields.io/badge/Anaconda-44A833.svg?style=flat&logo=Anaconda&logoColor=white)
 ![](https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=NumPy&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white)
@@ -209,3 +209,4 @@ Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project,
 ![](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=flat&logo=Power-BI&logoColor=black)
 ![](https://img.shields.io/badge/Tableau-E97627.svg?style=flat&logo=Tableau&logoColor=white)
 
+-->
