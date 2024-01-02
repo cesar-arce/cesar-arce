@@ -35,6 +35,7 @@
 [![Scikitlearn](https://img.shields.io/badge/Scikit_learn-1.3.2-F7931E.svg?style=flat&logo=scikit-learn&logoColor=F7931E)](https://scikit-learn.org/stable/)
 [![PyPI](https://img.shields.io/badge/PyPI-v1.3.2-F7931E.svg?style=flat&logo=scikit-learn&logoColor=F7931E)](https://pypi.org/project/scikit-learn/)
 [![tensorflow](https://img.shields.io/badge/TensorFlow-1.12-FF6F00.svg?style=flat&logo=tensorflow)](https://www.tensorflow.org)
+[![tensorboard](https://img.shields.io/badge/TensorFlow-TensorBoard-FF6F00.svg?style=flat&logo=tensorflow)](https://www.tensorflow.org/tensorboard)
 [![Keras](https://img.shields.io/badge/Keras-3.0-%23D00000.svg?style=flat&logo=Keras&logoColor=%23D00000)](https://keras.io/)
 [![pytorch](https://img.shields.io/badge/PyTorch-2.1-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=%23EE4C2C)](https://pytorch.org)
 [![Snowpark](https://img.shields.io/badge/Snowflake-Snowpark-5087B2.svg?style=flat&logo=snowflake)](https://www.snowflake.com/en/data-cloud/snowpark/)
