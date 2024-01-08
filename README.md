@@ -20,6 +20,7 @@
 </p>
 
 <p align="justify">
+    
 [![GitHub](https://img.shields.io/badge/GitHub_(FR)-Cesar_Arce-1997B5.svg?style=flat&logo=github)](https://github.com/ArceCesar)
 [![Website](https://img.shields.io/badge/Website-Cesar_Arce-5087B2.svg?style=flat&logo=telegram)](https://cesararce5.wixsite.com/mysite)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Arce-%230077B5.svg?style=flat&logo=linkedin&logoColor=%230077B5)](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713)
