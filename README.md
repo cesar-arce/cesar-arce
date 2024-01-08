@@ -19,6 +19,7 @@
 
 </p>
 
+<p align="justify">
 [![GitHub](https://img.shields.io/badge/GitHub_(FR)-Cesar_Arce-1997B5.svg?style=flat&logo=github)](https://github.com/ArceCesar)
 [![Website](https://img.shields.io/badge/Website-Cesar_Arce-5087B2.svg?style=flat&logo=telegram)](https://cesararce5.wixsite.com/mysite)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Arce-%230077B5.svg?style=flat&logo=linkedin&logoColor=%230077B5)](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713)
@@ -45,6 +46,8 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.63.0-009688.svg?style=flat&logo=FastAPI&logoColor=009688)](https://fastapi.tiangolo.com)
 [![R](https://img.shields.io/badge/R-Script-276DC3.svg?style=flat&logo=R&logoColor=75AADB)](https://cran.r-project.org)
 [![RStudio](https://img.shields.io/badge/RStudio-Project-75AADB.svg?style=flat&logo=RStudio)](https://www.rstudio.com)
+
+</p>
 
 <!-- 
 [AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
