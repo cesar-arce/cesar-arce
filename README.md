@@ -65,7 +65,7 @@
 
 </p>
 
-## <p align="justify"> >> Transforming your Raw Data with Data Science into Artificial Intelligence (AI)
+## <p align="justify"> >> 📊 Transforming historical data to predict the future using algorithms to find patterns and relationships.
 
 </p>
 
