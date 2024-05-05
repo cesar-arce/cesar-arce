@@ -11,7 +11,7 @@
 # print("Hello World !!") 👋
 -->
 
-# <p align="justify"> 🚀 I can demonstrate how Data Science empowers us to leverage data for making intelligent, well-informed decisions!
+# <p align="justify"> 🚀 I can demonstrate how Data Science empowers us to leverage data for making intelligent and well-informed decisions!
 
 </p>
 
