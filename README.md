@@ -11,11 +11,11 @@
 # print("Hello World !!") 👋
 -->
 
-# <p align="justify"> 🚀 Data Science is about using data to make smart and informed decisitions!
+# <p align="justify"> 🚀 I can demonstrate how Data Science empowers us to leverage data for making intelligent, well-informed decisions!
 
 </p>
 
-# <p align="justify"> 🔓 I can show you how to unlock the true potential of your data
+# <p align="justify"> 🔓 I can show you how to unlock the true potential of your data!
 
 </p>
 
