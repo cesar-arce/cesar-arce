@@ -11,11 +11,7 @@
 # print("Hello World !!") 👋
 -->
 
-# <p align="justify"> 🚀 Data Science empowers us to leverage data for making intelligent and well-informed decisions!
-
-</p>
-
-# <p align="justify"> 🔓 I can guide you in transforming your data into actionable insights, unlocking its full potential to drive informed decisions and business growth!
+# <p align="justify"> 🚀 Data Science empowers us to leverage data for intelligent, well-informed decisions, and I’m here to help you transform that data into actionable insights, unlocking its full potential to drive business growth! 🔓
 
 </p>
 
