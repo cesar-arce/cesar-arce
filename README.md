@@ -15,7 +15,7 @@
 
 </p>
 
-# <p align="justify"> 🔓 I can show you exactly how to unlock the true potential of your data!
+# <p align="justify"> 🔓 I can guide you in transforming your data into actionable insights, unlocking its full potential to drive informed decisions and business growth!
 
 </p>
 
