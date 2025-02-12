@@ -11,7 +11,7 @@
 # print("Hello World !!") 👋
 -->
 
-# <p align="justify"> 🚀 I am part of a consulting firm specialized in ERP implementation, business intelligence, and data science. As an Odoo partner, we help companies optimize their operations and improve decision-making through customized technological solutions. Our expertise covers ERP customization, data science and machine learning, data analysis, business process optimization, database management, and inventory planning. We are committed to supporting organizations with innovative solutions that promote efficiency and sustainable business growth! 🔓
+## <p align="justify"> 🚀 I am part of a consulting firm specialized in ERP implementation, business intelligence, and data science. As an Odoo partner, we help companies optimize their operations and improve decision-making through customized technological solutions. Our expertise covers ERP customization, data science and machine learning, data analysis, business process optimization, database management, and inventory planning. We are committed to supporting organizations with innovative solutions that promote efficiency and sustainable business growth! 🔓
 
 </p>
 
