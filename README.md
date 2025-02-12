@@ -11,7 +11,7 @@
 # print("Hello World !!") 👋
 -->
 
-# <p align="justify"> 🚀 Data Science empowers us to leverage data for intelligent, well-informed decisions, and I’m here to help you transform that data into actionable insights, unlocking its full potential to drive business growth! 🔓
+# <p align="justify"> 🚀 I am part of a consulting firm specialized in ERP implementation, business intelligence, and data science. As an Odoo partner, we help companies optimize their operations and improve decision-making through customized technological solutions. Our expertise covers ERP customization, data science and machine learning, data analysis, business process optimization, database management, and inventory planning. We are committed to supporting organizations with innovative solutions that promote efficiency and sustainable business growth! 🔓
 
 </p>
 
@@ -58,6 +58,10 @@
 ![Banner](./banner.png)
 
 ### <p align="justify"> Welcome to my Data Science Portfolio. My passion is help you to increase your business competitiveness, sales growth and turnover your results, transforming Raw Data into valuable information to make better decisions !!  Using cutting-edge technologies, such as Machine Learning or Deep Learning (Python or R), SQL, Database ETL, Datalake ELT, dbt, and Robotic Process Automation - RPA (using UiPath, Knime, etc.)👍
+
+</p>
+
+### <p align="justify"> ![odoo_certified_partner](https://github.com/user-attachments/assets/81174f85-ec49-45a5-8f5d-cc12794ed5e3)
 
 </p>
 
