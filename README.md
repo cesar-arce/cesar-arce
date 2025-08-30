@@ -89,15 +89,24 @@
 ### My Specialties:
 
 <p align="justify">
-🚀 Data Scientist - As a Data Scientist specializing in Machine Learning and Artificial Intelligence, I implement Machine Learning and Deep Learning models to extract valuable insights from data. I use advanced algorithms and modeling techniques to solve complex problems and make accurate predictions, optimize processes and enable intelligent task automation. I am passionate about exploring new AI methods and technologies to solve real-world challenges and contribute to innovation in various fields.
+🚀 Data Science & AI
+- Build and deploy Machine Learning & Deep Learning models to uncover insights and automate tasks.
+- Apply advanced algorithms to solve complex problems and deliver accurate predictions.
+- Passionate about exploring new AI methods to tackle real-world challenges.
 
 </p>
 <p align="justify">
-📈 Business Intelligence – BI (focuses on descriptive analytics), I work transforming data into insights that drive business value. To improve and maintain operational efficiency and helps companies to increase organizational productivity; managers can generate intuitive, readable reports that contain relevant, actionable data. As BI analysts, I can identify trends that can help other departments, managers, and executives make business decisions to modernize and improve processes in the organization. As BI analysts, I can discover areas of revenue loss and identify where improvements can be made to save the company money or increase profits. 
+📈 Business Intelligence (BI – Descriptive Analytics)
+- Transform raw data into intuitive dashboards and reports that drive business value.
+- Help organizations improve efficiency, monitor KPIs, and support better decision-making.
+- Identify revenue leaks and highlight opportunities for cost savings or profit growth. 
 
 </p>
 <p align="justify">
-📊 Business Analytics – BA (focuses on predictive analytics), as a Data Scientist specialist, I work using your company’s data to anticipate trends and outcomes. Typically includes Data Mining, Statistical and Quantitative analysis, Predictive Modeling, and Machine Learning (ML) to anticipate and determine the likelihood of future outcomes, that help make more informed decisions, and make the changes necessary to succeed. In effect, like business analytics, I prepare a predictive analysis to solve problems before they’ve occurred.
+📊 Business Analytics (BA – Predictive Analytics)
+- Use data mining, statistics, and predictive modeling to anticipate future outcomes.
+- Provide insights that allow leaders to act before problems occur.
+- Support proactive strategies for growth, risk management, and innovation.
 
 </p>
 
