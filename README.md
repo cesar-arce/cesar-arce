@@ -90,7 +90,7 @@
 
 <p align="justify">
 🚀 Data Science & AI
-* Build and deploy Machine Learning & Deep Learning models to uncover insights and automate tasks.<\br>
+* Build and deploy Machine Learning & Deep Learning models to uncover insights and automate tasks. <\br>
 * Apply advanced algorithms to solve complex problems and deliver accurate predictions.\*
 * Passionate about exploring new AI methods to tackle real-world challenges.
 
