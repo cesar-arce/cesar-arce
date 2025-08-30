@@ -90,23 +90,23 @@
 
 <p align="justify">
 🚀 Data Science & AI
-- Build and deploy Machine Learning & Deep Learning models to uncover insights and automate tasks.
-- Apply advanced algorithms to solve complex problems and deliver accurate predictions.
-- Passionate about exploring new AI methods to tackle real-world challenges.
+* Build and deploy Machine Learning & Deep Learning models to uncover insights and automate tasks.
+* Apply advanced algorithms to solve complex problems and deliver accurate predictions.
+* Passionate about exploring new AI methods to tackle real-world challenges.
 
 </p>
 <p align="justify">
 📈 Business Intelligence (BI – Descriptive Analytics)
-- Transform raw data into intuitive dashboards and reports that drive business value.
-- Help organizations improve efficiency, monitor KPIs, and support better decision-making.
-- Identify revenue leaks and highlight opportunities for cost savings or profit growth. 
+* Transform raw data into intuitive dashboards and reports that drive business value.
+* Help organizations improve efficiency, monitor KPIs, and support better decision-making.
+* Identify revenue leaks and highlight opportunities for cost savings or profit growth. 
 
 </p>
 <p align="justify">
 📊 Business Analytics (BA – Predictive Analytics)
-- Use data mining, statistics, and predictive modeling to anticipate future outcomes.
-- Provide insights that allow leaders to act before problems occur.
-- Support proactive strategies for growth, risk management, and innovation.
+* Use data mining, statistics, and predictive modeling to anticipate future outcomes.
+* Provide insights that allow leaders to act before problems occur.
+* Support proactive strategies for growth, risk management, and innovation.
 
 </p>
 
