@@ -113,7 +113,11 @@
 ### 👨‍💻 My Background:
 
 <p align="justify">
-In addition to my technical skills, I hold an Executive MBA (EMBA), two bachelor's degrees in Management and Accounting (CPA, CMA), a Data Science specialization from Johns Hopkins University, and a Google Data Analytics Professional Certificate, among others.
+Beyond my technical expertise, I bring a strong academic foundation and professional credentials:
+🎓 Executive MBA (EMBA)
+🎓 Dual Bachelor’s Degrees in Management & Accounting (CPA, CMA)
+📊 Data Science Specialization – Johns Hopkins University
+📈 Google Data Analytics Professional Certificate
 
 </p>
 
