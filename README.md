@@ -15,12 +15,12 @@
 
 </p>
 
-### <p align="justify"> We empower businesses with tailored Odoo ERP implementations, Business Intelligence, and Data Science—unlocking efficiency, clarity, and long-term success. 🔓
-### 🔑 From process optimization to predictive modeling, our solutions drive efficiency, innovation, and sustainable growth.
+### <p align="justify"> We empower businesses with tailored Odoo ERP implementations, Business Intelligence, and Data Science—unlocking productivity, clarity, and long-term success. 🔓
+### 🔑 From process optimization to predictive modeling, our solutions drive agility, innovation, and measurable results.
 
 </p>
 
-### <p align="justify"> 💡 Our mission: transform complexity into clarity with customized solutions that drive efficiency, growth, and sustainable success.
+### <p align="justify"> 💡 Our mission: transform complexity into clarity with customized solutions that fuel resilience, scalability, and sustainable growth.
 
 </p>
 
@@ -68,7 +68,10 @@
 
 ![Banner](./banner.png)
 
-### <p align="justify"> Welcome to my Data Science Portfolio. My passion is help you to increase your business competitiveness, sales growth and turnover your results, transforming Raw Data into valuable information to make better decisions !!  Using cutting-edge technologies, such as Machine Learning or Deep Learning (Python or R), SQL, Database ETL, Datalake ELT, dbt, and Robotic Process Automation - RPA (using UiPath, Knime, etc.)👍
+### <p align="justify"> 🎯 Welcome to my Data Science Portfolio. 
+### My passion is to help businesses boost competitiveness, accelerate growth, and turn results around by transforming raw data into actionable insights.
+
+### Using cutting-edge technologies—Machine Learning, Deep Learning, SQL, dbt, and Robotic Process Automation (UiPath, KNIME, etc.)—I build solutions that make complex data simple, meaningful, and decision-ready. 👍
 
 </p>
 
