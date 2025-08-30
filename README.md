@@ -79,7 +79,8 @@
 
 </p>
 
-## <p align="justify"> >> 📊 Transforming historical data to predict the future by using algorithms to uncover patterns and relationships is just the beginning. The real impact comes from presenting these insights through seamless UX/UI design, making complex data understandable and actionable for all users.
+## <p align="justify"> >> 📊 Transforming historical data into future insights is just the beginning. 
+### <p align="justify"> The true impact comes from turning complex analytics into clear, actionable stories through seamless UX/UI design. We make data not only predictive—but also understandable and actionable for everyone.
 
 </p>
 
