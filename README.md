@@ -96,16 +96,16 @@
 
 </p>
 <p align="justify">
-📈 Business Intelligence (BI – Descriptive Analytics)
-* Transform raw data into intuitive dashboards and reports that drive business value.
-* Help organizations improve efficiency, monitor KPIs, and support better decision-making.
+📈 Business Intelligence (BI – Descriptive Analytics)<br/>
+* Transform raw data into intuitive dashboards and reports that drive business value.<br/>
+* Help organizations improve efficiency, monitor KPIs, and support better decision-making.<br/>
 * Identify revenue leaks and highlight opportunities for cost savings or profit growth. 
 
 </p>
 <p align="justify">
-📊 Business Analytics (BA – Predictive Analytics)
-* Use data mining, statistics, and predictive modeling to anticipate future outcomes.
-* Provide insights that allow leaders to act before problems occur.
+📊 Business Analytics (BA – Predictive Analytics)<br/>
+* Use data mining, statistics, and predictive modeling to anticipate future outcomes.<br/>
+* Provide insights that allow leaders to act before problems occur.<br/>
 * Support proactive strategies for growth, risk management, and innovation.
 
 </p>
@@ -113,10 +113,10 @@
 ### 👨‍💻 My Background:
 
 <p align="justify">
-Beyond my technical expertise, I bring a strong academic foundation and professional credentials:
-🎓 Executive MBA (EMBA)
-🎓 Dual Bachelor’s Degrees in Management & Accounting (CPA, CMA)
-📊 Data Science Specialization – Johns Hopkins University
+Beyond my technical expertise, I bring a strong academic foundation and professional credentials:<br/>
+🎓 Executive MBA (EMBA)<br/>
+🎓 Dual Bachelor’s Degrees in Management & Accounting (CPA, CMA)<br/>
+📊 Data Science Specialization – Johns Hopkins University<br/>
 📈 Google Data Analytics Professional Certificate
 
 </p>
