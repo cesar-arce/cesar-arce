@@ -69,9 +69,9 @@
 ![Banner](./banner.png)
 
 ### <p align="justify"> 🎯 Welcome to my Data Science Portfolio. 
-### My passion is to help businesses boost competitiveness, accelerate growth, and turn results around by transforming raw data into actionable insights.
+### <p align="justify">  My passion is to help businesses boost competitiveness, accelerate growth, and turn results around by transforming raw data into actionable insights.
 
-### Using cutting-edge technologies—Machine Learning, Deep Learning, SQL, dbt, and Robotic Process Automation (UiPath, KNIME, etc.)—I build solutions that make complex data simple, meaningful, and decision-ready. 👍
+### <p align="justify">  Using cutting-edge technologies—Machine Learning, Deep Learning, SQL, dbt, and Robotic Process Automation (UiPath, KNIME, etc.)—I build solutions that make complex data simple, meaningful, and decision-ready. 👍
 
 </p>
 
