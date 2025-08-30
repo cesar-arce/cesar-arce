@@ -16,7 +16,7 @@
 </p>
 
 ### <p align="justify"> We empower businesses with tailored Odoo ERP implementations, Business Intelligence, and Data Science—unlocking efficiency, clarity, and long-term success. 🔓
-🔑 From process optimization to predictive modeling, our solutions drive efficiency, innovation, and sustainable growth.
+### 🔑 From process optimization to predictive modeling, our solutions drive efficiency, innovation, and sustainable growth.
 
 </p>
 
