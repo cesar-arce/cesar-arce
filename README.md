@@ -11,7 +11,7 @@
 # print("Hello World !!") 👋
 -->
 
-## <p align="justify"> 🚀 Business Intelligence & Data Solutions Consultant
+## <p align="justify"> 🚀 Business Intelligence & Data Science Solutions Consultant
 
 </p>
 
