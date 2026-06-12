@@ -15,7 +15,7 @@
 
 </p>
 
-### <p align="justify"> We empower businesses with tailored **Odoo ERP implementations, Digital Transformation, Business Intelligence, and Data Science** — unlocking productivity, clarity, and long-term success. 🔓
+### <p align="justify"> We empower businesses with tailored **ERP implementations, Digital Transformation, Business Intelligence, and Data Science** — unlocking productivity, clarity, and long-term success. 🔓
 ### <p align="justify"> 🔑 From **data analysis and visualization** to **machine learning and AI**, our solutions drive agility, innovation, and measurable results.
 
 </p>
